@@ -4,7 +4,7 @@ seamlessly discover, curate, lock, and copy cohesive hex color schemes for their
 ## 🚀 Live Demo & Deployment
 • 
 • 
-Live Tool URL: [INSERT YOUR VERCEL LINK HERE AFTER DEPLOYMENT]
+Live Tool URL: (https://digital-heroes-palette.vercel.app/)
 Target Evaluation: Built for the Digital Heroes Custom Software Developer Trial Task assessment.
 ## ✨ Core Features
 • 
